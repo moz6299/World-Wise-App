@@ -1,4 +1,4 @@
-import React, { lazy, Suspense, useEffect, useState } from "react";
+import  { lazy, Suspense,  } from "react";
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 
 import CityList from "../components/CityList";
